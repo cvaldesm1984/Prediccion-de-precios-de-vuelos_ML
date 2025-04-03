@@ -1,3 +1,5 @@
+![Flight prices predictions](https://github.com/user-attachments/assets/19913c8b-d617-4f89-8c28-a352b5ee372a)
+
 # Prediciendo precios de vuelos
 El problema de negocio que se desea resolver es desarrollar un modelo predictivo que pueda estimar con precisión el precio de los boletos de avión.
 Esto es crucial para las agencias de viajes en línea que desean ofrecer a sus clientes estimaciones precisas del precio de los boletos de avión para sus próximos viajes.
